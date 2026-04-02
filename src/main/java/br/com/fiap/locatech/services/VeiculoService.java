@@ -1,7 +1,7 @@
 package br.com.fiap.locatech.services;
 
 import br.com.fiap.locatech.entities.Veiculo;
-import br.com.fiap.locatech.repositories.VeiculoRepository;
+import br.com.fiap.locatech.repositories.veiculo.VeiculoRepository;
 import org.springframework.stereotype.Service;
 import org.springframework.util.Assert;
 

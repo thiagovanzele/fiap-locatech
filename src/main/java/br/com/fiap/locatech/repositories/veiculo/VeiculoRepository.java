@@ -1,4 +1,4 @@
-package br.com.fiap.locatech.repositories;
+package br.com.fiap.locatech.repositories.veiculo;
 
 import br.com.fiap.locatech.entities.Veiculo;
 
